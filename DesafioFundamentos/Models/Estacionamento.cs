@@ -62,6 +62,3 @@ namespace DesafioFundamentos.Models
         }
     }
 }
-        }
-    }
-}
